@@ -1,0 +1,15 @@
+body {background-color: antiquewhite;
+}
+.p1 {text-align: center;
+font-size: 200%;
+color: rgb(255, 255, 255);
+border-color: black;
+border-width: 0px;
+border-style: double;
+margin-left: 30%;
+margin-right: 30%;
+padding-left: 0%;
+padding-top: 0%;
+background-color: rgb(0, 0, 0);
+
+}
